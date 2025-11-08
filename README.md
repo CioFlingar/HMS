@@ -135,11 +135,13 @@ HMS/
 
 ## 🎥 Demo Video
 
-<iframe src="https://drive.google.com/file/d/1ic7IwFcYoqA45cFNoNYDz69jIzhs29iP/preview" width="100%" height="450" allow="autoplay; fullscreen" frameborder="0" allowfullscreen></iframe>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ic7IwFcYoqA45cFNoNYDz69jIzhs29iP/preview">
+    <img src="https://drive.google.com/thumbnail?id=1ic7IwFcYoqA45cFNoNYDz69jIzhs29iP&sz=w1000" width="800"/>
+  </a>
+</p>
 
-_Or click the thumbnail below for the same video:_
-
-[![Watch the video](https://drive.google.com/thumbnail?id=1ic7IwFcYoqA45cFNoNYDz69jIzhs29iP&sz=w1200)](https://drive.google.com/file/d/1ic7IwFcYoqA45cFNoNYDz69jIzhs29iP/preview)
+_Click the thumbnail above to play the video in Google Drive (supports fullscreen, controls, etc.)_
 
 ## 📄 License
 
