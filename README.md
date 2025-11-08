@@ -135,10 +135,11 @@ HMS/
 
 ## 🎥 Demo Video
 
-🕒 **Duration:** 2–3 minutes
-📹 **Content:**
+<iframe src="https://drive.google.com/file/d/1ic7IwFcYoqA45cFNoNYDz69jIzhs29iP/preview" width="100%" height="450" allow="autoplay; fullscreen" frameborder="0" allowfullscreen></iframe>
 
-## ![starting of the system](images_gifs/start.png)
+_Or click the thumbnail below for the same video:_
+
+[![Watch the video](https://drive.google.com/thumbnail?id=1ic7IwFcYoqA45cFNoNYDz69jIzhs29iP&sz=w1200)](https://drive.google.com/file/d/1ic7IwFcYoqA45cFNoNYDz69jIzhs29iP/preview)
 
 ## 📄 License
 
