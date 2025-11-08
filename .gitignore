@@ -1,0 +1,119 @@
+# ============================
+# 🧠 GLOBAL IGNORE SETTINGS
+# ============================
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+*.env.local
+!example.env
+
+# Log files
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# ============================
+# ⚙️ BACKEND (Django)
+# ============================
+
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+pip-wheel-metadata/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Django-specific
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+*.pot
+*.pyc
+
+# Local settings
+local_settings.py
+
+# IDE configs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ============================
+# ⚛️ FRONTEND (React + Tailwind)
+# ============================
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+/build
+/dist
+.cache/
+.tmp/
+coverage/
+
+# Tailwind generated CSS
+src/index.css
+src/output.css
+
+# Optional lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ============================
+# 🧾 MISC
+# ============================
+
+# Backup / Temp files
+*.bak
+*.swp
+*.tmp
+*.old
+
+# Demo or video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# ============================
+# ✅ ALLOWED FILES
+# ============================
+
+!.gitignore
+!README.md
+!requirements.txt
+!package.json
+!department_schema.sql
+!departments_data.json
